@@ -3,3 +3,5 @@ Hello world
 merge test
 merge test testBranch
 merge test main
+
+test error handling
